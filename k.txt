@@ -1,0 +1,14 @@
+Available kernels:
+  .venv                                           
+  forcast                                           
+  forecast                                           
+  gflask                                           
+  icarus                                           
+  local-venv                                           
+  local_env2                                           
+  python3                                           
+  python38564biticarusconda0357c96aee324e70a64511cfad832709 
+  robo_env                                           
+  robotic_flask                                           
+  web                                           
+  webdevflask                                           
